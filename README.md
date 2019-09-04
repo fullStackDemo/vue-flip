@@ -1,2 +1,2 @@
-# vue-flip
-翻页效果的vue封装组件
+# vue-turn
+基于turn.js翻页效果的vue封装组件
